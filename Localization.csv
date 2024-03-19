@@ -1,0 +1,6 @@
+﻿key;english;spanish_latam;spanish_spain;portuguese;french;italian;german;chinese;japanese;korean;russian
+Hi;Hi;Hola;Hola;;;;;;;;
+test message 1;This is a test;;;;;;;;;;
+test message 2;This is a test, with a comma;;;;;;;;;;
+test message 3;something;Esta es una prueba con punto y coma;;;;;;;;;
+Welcome user;Welcome {0};Bienvenido {0};;;;;;;;;
