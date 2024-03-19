@@ -1,6 +1,20 @@
 ﻿key;english;spanish_latam;spanish_spain;portuguese;french;italian;german;chinese;japanese;korean;russian
 Hi;Hi;Hola;Hola;;;;;;;;
-test message 1;This is a test;;;;;;;;;;
+test message 1;This is a test;;;;;;;这是一个测试;これはテストです;이것은 테스트입니다;
 test message 2;This is a test, with a comma;;;;;;;;;;
 test message 3;something;Esta es una prueba con punto y coma;;;;;;;;;
 Welcome user;Welcome {0};Bienvenido {0};;;;;;;;;
+LEZ+ description;"LEZ+ is a subscription with which you can get additional benefits in the game while supporting the game and its development.
+
+
+Benefits:
+- Get early access to some exclusive betas with LEZ+ and early access to some features before other players when the betas become available.
+- Personalize your game with a custom background, custom colors and custom sounds.
+- Get a ""Supporter"" badge.
+- Get a 15% experience bonus to your account level by completing songs.
+
+COMING SOON:
+- Increase the player limit in the multiplayer lobby.
+- Get early access to the beatmap editor (LEZ+ is not required to download and play the maps released by the community during the beta version of the beatmap editor).
+
+The subscription will not have automatic monthly renewal.";;;;;;;;;;
