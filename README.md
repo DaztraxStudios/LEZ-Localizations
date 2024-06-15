@@ -5,7 +5,7 @@ This is the repository where all the localizations are added in the game and wil
 
 ## Important / Read before starting contributing
 - Before adding localizations, we recommend that you add the translations with your native languages and not as a secondary language or using a translator, the main purpose of this repository is so that the community can add translations that come naturally to people.
-- We will only add the languages that are from the added folders on this repository for now, this is because we want to add languages that are in the list of [Full Platform Supported Languages](https://partner.steamgames.com/doc/store/localization/languages#supported_languages) as an **API language code**.
+- We will only add the languages that are from the added folders on this repository for now, this is because we want to add languages that are in the list of [Full Platform Supported Languages](https://partner.steamgames.com/doc/store/localization/languages#supported_languages) as an **API language code** from Steamworks.
 
 # Getting started
 To start adding the content for localizations, we recommend you to use [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/), or [Visual Studio Code](https://code.visualstudio.com/download) since the localization files are JSON files.
