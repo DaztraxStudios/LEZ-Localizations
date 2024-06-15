@@ -1,0 +1,74 @@
+[
+  {
+    "Key": "Beatmap editor: Press when you're ready for calculate the BPM",
+    "Content": "When you're ready, start pressing space\nor left click 16 times for calculate the BPM"
+  },
+  {
+    "Key": "Beatmap editor: Press when you're ready for calculate the BPM",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Press space or left click 16 times to calculate the BPM",
+    "Content": "Press space or left click {TimesToPress} times to calculate the BPM"
+  },
+  {
+    "Key": "Beatmap editor: Press space or left click 16 times to calculate the BPM",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Effects",
+    "Content": "Effects"
+  },
+  {
+    "Key": "Beatmap editor: Effects",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Song Data",
+    "Content": "Song data"
+  },
+  {
+    "Key": "Beatmap editor: Song Data",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Speed",
+    "Content": "Speed"
+  },
+  {
+    "Key": "Beatmap editor: Speed",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Hit sound",
+    "Content": "Hit sound"
+  },
+  {
+    "Key": "Beatmap editor: Hit sound",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Rhythm Divider",
+    "Content": "Rhythm Divider"
+  },
+  {
+    "Key": "Beatmap editor: Rhythm Divider",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Allowed file formats",
+    "Content": "Allowed file formats: \".mp3\", \".wav\", \".ogg"
+  },
+  {
+    "Key": "Beatmap editor: Allowed file formats",
+    "Content": ""
+  },
+  {
+    "Key": "Beatmap editor: Drop a file to create a beatmap",
+    "Content": "Drop an audio file to create a new beatmap.\nSupported formats: \".ogg\", \".wav\", \".mp3"
+  },
+  {
+    "Key": "Beatmap editor: Drop a file to create a beatmap",
+    "Content": ""
+  }
+]

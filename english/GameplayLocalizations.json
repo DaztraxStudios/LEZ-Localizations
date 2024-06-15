@@ -1,0 +1,202 @@
+[
+  {
+    "Key": "Gameplay: Tutorial text 1",
+    "Content": "Welcome to the LEZ tutorial, where you will learn the basics of the game and learn how to become a professional player."
+  },
+  {
+    "Key": "Gameplay: Tutorial text 1",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Tutorial text 2",
+    "Content": "The game may not be easy to play, however with a knowledge of the basics and a bit of practice, you too can achieve a good score."
+  },
+  {
+    "Key": "Gameplay: Tutorial text 2",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Tutorial text 3",
+    "Content": "The controls are very simple. Use the 6 keys in the bar, and whenever a note is on the bar, press the corresponding key on your keyboard. Are you ready?"
+  },
+  {
+    "Key": "Gameplay: Tutorial text 3",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Try again",
+    "Content": "Try again"
+  },
+  {
+    "Key": "Gameplay: Try again",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Back to the menu",
+    "Content": "Back to the menu"
+  },
+  {
+    "Key": "Gameplay: Back to the menu",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Pause",
+    "Content": "Pause"
+  },
+  {
+    "Key": "Gameplay: Pause",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Progress",
+    "Content": "Progress: {Progress}"
+  },
+  {
+    "Key": "Gameplay: Progress",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Press space 1",
+    "Content": "Press \"Space\" to continue"
+  },
+  {
+    "Key": "Gameplay: Press space 1",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Press space 2",
+    "Content": "Wait a second..."
+  },
+  {
+    "Key": "Gameplay: Press space 2",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Select the start time",
+    "Content": "- Practice mode\nSelect the start time"
+  },
+  {
+    "Key": "Gameplay: Select the start time",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Press to skip",
+    "Content": "Press \"{KeyForSkip}\" to skip"
+  },
+  {
+    "Key": "Gameplay: Press to skip",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Suggested local offset",
+    "Content": "Set suggested local offset: {SuggestedLocalOffset}"
+  },
+  {
+    "Key": "Gameplay: Suggested local offset",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Current local offset",
+    "Content": "Current local offset: {variable.CurrentLocalOffset}"
+  },
+  {
+    "Key": "Gameplay: Current local offset",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Attempt",
+    "Content": "Attempt {Attempt}"
+  },
+  {
+    "Key": "Gameplay: Attempt",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Take a break",
+    "Content": "- Take a break -"
+  },
+  {
+    "Key": "Gameplay: Take a break",
+    "Content": ""
+  },
+  {
+    "Key": "Gameplay: Hold to restart",
+    "Content": "Hold to restart"
+  },
+  {
+    "Key": "Gameplay: Hold to restart",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Score",
+    "Content": "Score: {Score}"
+  },
+  {
+    "Key": "Results: Score",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Notes touched",
+    "Content": "Notes touched: {NotesTouched}"
+  },
+  {
+    "Key": "Results: Notes touched",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Maximum combo",
+    "Content": "Maximum combo\n{MaximumCombo}"
+  },
+  {
+    "Key": "Results: Maximum combo",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Failed notes",
+    "Content": "Failed notes\n{FailedNotes}"
+  },
+  {
+    "Key": "Results: Failed notes",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Excelent hits",
+    "Content": "Excelent hits:\n{ExcelentHits}"
+  },
+  {
+    "Key": "Results: Excelent hits",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Perfect hits",
+    "Content": "Perfect hits: {PerfectHits}"
+  },
+  {
+    "Key": "Results: Perfect hits",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Good hits",
+    "Content": "Good hits: {GoodHits}"
+  },
+  {
+    "Key": "Results: Good hits",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Attempts",
+    "Content": "Attempts\n{Attempts}"
+  },
+  {
+    "Key": "Results: Attempts",
+    "Content": ""
+  },
+  {
+    "Key": "Results: Account level",
+    "Content": "Account level: {AccountLevel}"
+  },
+  {
+    "Key": "Results: Account level",
+    "Content": ""
+  }
+]

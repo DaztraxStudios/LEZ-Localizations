@@ -1,0 +1,386 @@
+[
+  {
+    "Key": "Game options: Logged as username",
+    "Content": "Logged as \"{Username}\""
+  },
+  {
+    "Key": "Game options: Logged as username",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Open notifications",
+    "Content": "Open notifications"
+  },
+  {
+    "Key": "Game options: Open notifications",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Show progress bar",
+    "Content": "Show progress bar"
+  },
+  {
+    "Key": "Game options: Show progress bar",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Show beatmap percentage",
+    "Content": "Show beatmap percentage"
+  },
+  {
+    "Key": "Game options: Show beatmap percentage",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Hit note effect",
+    "Content": "Hit note effect"
+  },
+  {
+    "Key": "Game options: Hit note effect",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Smooth fix",
+    "Content": "Smooth fix"
+  },
+  {
+    "Key": "Game options: Smooth fix",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Use beatmap colors in gameplay",
+    "Content": "Use beatmap colors in gameplay"
+  },
+  {
+    "Key": "Game options: Use beatmap colors in gameplay",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Performance mode",
+    "Content": "Performance mode"
+  },
+  {
+    "Key": "Game options: Performance mode",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Fail sounds",
+    "Content": "Fail sounds"
+  },
+  {
+    "Key": "Game options: Fail sounds",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Streamer Mode",
+    "Content": "Streamer Mode"
+  },
+  {
+    "Key": "Game options: Streamer Mode",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Anti-copyright filter in gameplay",
+    "Content": "Anti-copyright filter in gameplay"
+  },
+  {
+    "Key": "Game options: Anti-copyright filter in gameplay",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Use Steam overlay browser",
+    "Content": "Use Steam overlay browser"
+  },
+  {
+    "Key": "Game options: Use Steam overlay browser",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Input",
+    "Content": "Input"
+  },
+  {
+    "Key": "Game options: Input",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Use fixed update input",
+    "Content": "Use fixed update input (Beta)"
+  },
+  {
+    "Key": "Game options: Use fixed update input",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Gameplay keys",
+    "Content": "Gameplay keys"
+  },
+  {
+    "Key": "Game options: Gameplay keys",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Gameplay keys message",
+    "Content": "Click on the gameplay keys to change it"
+  },
+  {
+    "Key": "Game options: Gameplay keys message",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Graphics",
+    "Content": "Graphics"
+  },
+  {
+    "Key": "Game options: Graphics",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Fullscreen",
+    "Content": "Fullscreen"
+  },
+  {
+    "Key": "Game options: Fullscreen",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Resolutions",
+    "Content": "Resolutions"
+  },
+  {
+    "Key": "Game options: Resolutions",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: VSync",
+    "Content": "V-Sync"
+  },
+  {
+    "Key": "Game options: VSync",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Frame rate",
+    "Content": "Frame rate"
+  },
+  {
+    "Key": "Game options: Frame rate",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Image quality",
+    "Content": "Image quality"
+  },
+  {
+    "Key": "Game options: Image quality",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Blur Effect",
+    "Content": "Blur effect"
+  },
+  {
+    "Key": "Game options: Blur Effect",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Audio",
+    "Content": "Audio"
+  },
+  {
+    "Key": "Game options: Audio",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Hit sounds",
+    "Content": "Hit sounds"
+  },
+  {
+    "Key": "Game options: Hit sounds",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Master volume",
+    "Content": "Master volume"
+  },
+  {
+    "Key": "Game options: Master volume",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Music volume",
+    "Content": "Music volume"
+  },
+  {
+    "Key": "Game options: Music volume",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Sounds volume",
+    "Content": "Sounds volume"
+  },
+  {
+    "Key": "Game options: Sounds volume",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Always play game theme on menu",
+    "Content": "Always play game theme on menu"
+  },
+  {
+    "Key": "Game options: Always play game theme on menu",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Offset",
+    "Content": "Offset"
+  },
+  {
+    "Key": "Game options: Offset",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Warning offset",
+    "Content": "Warning: Sounds may become offsync if the offset has a difference of 50 milliseconds, we recommend turning off the hit sounds."
+  },
+  {
+    "Key": "Game options: Warning offset",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Integrations",
+    "Content": "Ingegrations"
+  },
+  {
+    "Key": "Game options: Integrations",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Steam rich presence",
+    "Content": "Steam rich presence"
+  },
+  {
+    "Key": "Game options: Steam rich presence",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Discord rich presence",
+    "Content": "Discord rich presence"
+  },
+  {
+    "Key": "Game options: Discord rich presence",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Logitech RGB",
+    "Content": "Logitech RGB"
+  },
+  {
+    "Key": "Game options: Logitech RGB",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Razer RGB",
+    "Content": "Razer RGB"
+  },
+  {
+    "Key": "Game options: Razer RGB",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Other",
+    "Content": "Other"
+  },
+  {
+    "Key": "Game options: Other",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Join Discord server",
+    "Content": "Join to the Discord server ({DiscordOnlineMembers} online)"
+  },
+  {
+    "Key": "Game options: Join Discord server",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Donate",
+    "Content": "Donate"
+  },
+  {
+    "Key": "Game options: Donate",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Maintenance",
+    "Content": "Maintenance"
+  },
+  {
+    "Key": "Game options: Maintenance",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Sync scores",
+    "Content": "Sync scores"
+  },
+  {
+    "Key": "Game options: Sync scores",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Report a bug",
+    "Content": "REPORT A BUG"
+  },
+  {
+    "Key": "Game options: Report a bug",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Warn when opening external links",
+    "Content": "Warn when opening external links"
+  },
+  {
+    "Key": "Game options: Warn when opening external links",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Version",
+    "Content": "Version: {gameVersion}"
+  },
+  {
+    "Key": "Game options: Version",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Show Debug logs",
+    "Content": "Show Debug logs"
+  },
+  {
+    "Key": "Game options: Show Debug logs",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Game",
+    "Content": "Game"
+  },
+  {
+    "Key": "Game options: Game",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Account",
+    "Content": "Account"
+  },
+  {
+    "Key": "Game options: Account",
+    "Content": ""
+  },
+  {
+    "Key": "Game options: Set keybind message",
+    "Content": "Press the keys you want to set from left to right. Press \"Esc\" to return."
+  },
+  {
+    "Key": "Game options: Set keybind message",
+    "Content": ""
+  }
+]
