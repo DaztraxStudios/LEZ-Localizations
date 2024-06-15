@@ -1,26 +1,26 @@
 [
   {
     "Key": "Stream mode advise",
-    "Content": ""
+    "Content": "Espera, {Username}...\nHemos detectado que tienes abierto {StreamingSoftware}.\nSi planea grabar/transmitir el juego, le recomendamos que habilite el modo Streamer. ¿Quieres hacerlo ahora?"
   },
   {
     "Key": "Send report",
-    "Content": ""
+    "Content": "ENVIAR REPORTE"
   },
   {
     "Key": "See the Privacy Policy",
-    "Content": ""
+    "Content": "Mirar las políticas de privacidad"
   },
   {
     "Key": "Report a bug description",
-    "Content": ""
+    "Content": "Hola jugador, ¿encontraste un error o varios errores? ¡Estás en el lugar correcto!\nCree un informe del error aquí y envíelo directamente a los desarrolladores.\nAgregue una descripción para enviar información detallada como describir cómo es el error, cómo causarlo, dónde aparece (gameplay, lista de canciones, etc.) y más.\nSi puedes enviar videoclips con URL, será mucho mejor (como clips de Twitch o usando el servicio \"streamable.com\")."
   },
   {
     "Key": "Privacy Policy advise",
-    "Content": ""
+    "Content": "Al informar un error, usted acepta que LEZ recopila información de los archivos \".log\" y las especificaciones de su computadora para tener información clara y poder comprender su problema y poder corregir los errores encontrados. En ningún momento se recogerá información personal ni archivo/documento alguno. Lee nuestra política de privacidad para más información."
   },
   {
     "Key": "Report sent",
-    "Content": ""
+    "Content": "REPORTE ENVIADO"
   }
 ]

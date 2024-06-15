@@ -1,46 +1,46 @@
 [
   {
     "Key": "Yes",
-    "Content": ""
+    "Content": "Si"
   },
   {
     "Key": "No",
-    "Content": ""
+    "Content": "No"
   },
   {
     "Key": "No, thanks",
-    "Content": ""
+    "Content": "No, gracias"
   },
   {
     "Key": "Open",
-    "Content": ""
+    "Content": "Open"
   },
   {
     "Key": "Close",
-    "Content": ""
+    "Content": "Cerrar"
   },
   {
     "Key": "Back",
-    "Content": ""
+    "Content": "Atras"
   },
   {
     "Key": "Accept",
-    "Content": ""
+    "Content": "Acceptar"
   },
   {
     "Key": "Continue",
-    "Content": ""
+    "Content": "Continuar"
   },
   {
     "Key": "Cancel",
-    "Content": ""
+    "Content": "Cancelar"
   },
   {
     "Key": "Exit",
-    "Content": ""
+    "Content": "Salir"
   },
   {
     "Key": "Options",
-    "Content": ""
+    "Content": "Opciones"
   }
 ]

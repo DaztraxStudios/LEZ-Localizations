@@ -1,34 +1,34 @@
 [
   {
     "Key": "Menu: Play LEZ",
-    "Content": ""
+    "Content": "Jugar LEZ"
   },
   {
     "Key": "Menu: Play tutorial",
-    "Content": ""
+    "Content": "Jugar tutorial"
   },
   {
     "Key": "Menu: Official beatmaps",
-    "Content": ""
+    "Content": "Mapas oficiales"
   },
   {
     "Key": "Menu: Multiplayer",
-    "Content": ""
+    "Content": "Multijugador\n(Pronto)"
   },
   {
     "Key": "Menu: Edit beatmaps",
-    "Content": ""
+    "Content": "Editar beatmaps\n(Pronto)"
   },
   {
     "Key": "Menu: Community beatmaps",
-    "Content": ""
+    "Content": "Beatmaps de la comunidad"
   },
   {
     "Key": "Menu: My beatmaps",
-    "Content": ""
+    "Content": "Mis beatmaps"
   },
   {
     "Key": "Menu: New player tutorial advise",
-    "Content": ""
+    "Content": "Hola, te damos la bienvenida a LEZ, nos acabamos de enterar que esta es la primera vez que juegas, por lo cual te queremos preguntar si deseas jugar el tutorial."
   }
 ]

@@ -1,138 +1,138 @@
 [
   {
     "Key": "Song list: Title",
-    "Content": ""
+    "Content": "Lista de canciones"
   },
   {
     "Key": "Song list: Difficulty",
-    "Content": ""
+    "Content": "Dificultad: {difficulty}"
   },
   {
     "Key": "Song list: Score",
-    "Content": ""
+    "Content": "Puntaje: {score}"
   },
   {
     "Key": "Song list: Notes",
-    "Content": ""
+    "Content": "Notas: {notes}"
   },
   {
     "Key": "Song list: Beats per minute",
-    "Content": ""
+    "Content": "BPM: {bpm}"
   },
   {
     "Key": "Song list: Unranked Gameplay",
-    "Content": ""
+    "Content": "GAMEPLAY NO CLASIFICADO"
   },
   {
     "Key": "Song list: Duration",
-    "Content": ""
+    "Content": "Duración: {SongDuration}"
   },
   {
     "Key": "Song list: Difficulty:",
-    "Content": ""
+    "Content": "Dificultad: {Difficulty} {StarsWord}"
   },
   {
     "Key": "Song list: Song Name",
-    "Content": ""
+    "Content": "{SongName}"
   },
   {
     "Key": "Song list: Artist name",
-    "Content": ""
+    "Content": "De {ArtistName}"
   },
   {
     "Key": "Song list: Song and artist name",
-    "Content": ""
+    "Content": "{SongName}\nDe {ArtistName}"
   },
   {
     "Key": "Song list: No scores on leaberdoards",
-    "Content": ""
+    "Content": "No hay puntajes en esta canción, ¡sé el primero en tener uno!"
   },
   {
     "Key": "Song list: Anti copyright warning",
-    "Content": ""
+    "Content": "Efecto anti copyright habilitado por el modo streamer"
   },
   {
     "Key": "Song list: NOTES SPEED",
-    "Content": ""
+    "Content": "VELOCIDAD DE NOTAS"
   },
   {
     "Key": "Song list: More hitbox",
-    "Content": ""
+    "Content": "Más hitbox (Muy pronto)"
   },
   {
     "Key": "Song list: No death",
-    "Content": ""
+    "Content": "Sin muerte"
   },
   {
     "Key": "Song list: Mirror notes",
-    "Content": ""
+    "Content": "Notas espejo (Muy pronto)"
   },
   {
     "Key": "Song list: Limited vision",
-    "Content": ""
+    "Content": "Visión limitada (Muy pronto)"
   },
   {
     "Key": "Song list: Insta death with one fail",
-    "Content": ""
+    "Content": "Muerte instantánea al fallar una nota"
   },
   {
     "Key": "Song list: Ranked mods",
-    "Content": ""
+    "Content": "Mods clasificados"
   },
   {
     "Key": "Song list: Unranked mods",
-    "Content": ""
+    "Content": "Mods no clasificados"
   },
   {
     "Key": "Song list: Gameplay mods",
-    "Content": ""
+    "Content": "Mods de gameplay"
   },
   {
     "Key": "Song list: Score multiplier",
-    "Content": ""
+    "Content": "MULTIPLICADOR DE PUNTUAJE: {SongMultiplier}x"
   },
   {
     "Key": "Song list: Song speed",
-    "Content": ""
+    "Content": "Velocidad de la canción"
   },
   {
     "Key": "Song list: Sort by",
-    "Content": ""
+    "Content": "Ordenar por"
   },
   {
     "Key": "Song list: Mappers name",
-    "Content": ""
+    "Content": "Mapeado por {MappersNames}"
   },
   {
     "Key": "Song list: Rank status: Ranked",
-    "Content": ""
+    "Content": "Clasificado"
   },
   {
     "Key": "Song list: Rank status: Unranked",
-    "Content": ""
+    "Content": "No clasificado"
   },
   {
     "Key": "Song list: Game mode",
-    "Content": ""
+    "Content": "Modo de juego"
   },
   {
     "Key": "Song list: Edit beatmap",
-    "Content": ""
+    "Content": "Editar beatmap"
   },
   {
     "Key": "Song list: Create beatmap",
-    "Content": ""
+    "Content": "Crear beatmap"
   },
   {
     "Key": "Song list: Song Data",
-    "Content": ""
+    "Content": "DATOS DE LA CANCIÓN"
   },
   {
     "Key": "Song list: Play song",
-    "Content": ""
+    "Content": "JUGAR CANCIÓN"
   },
   {
     "Key": "Song list: No custom songs",
-    "Content": ""
+    "Content": "Uh oh, no encontramos ningún beatmap personalizado para que juegues.\n\nDescarga algunos beatmaps de Steam Workshop."
   }
 ]

@@ -1,194 +1,194 @@
 [
   {
     "Key": "Game options: Logged as username",
-    "Content": ""
+    "Content": "Iniciado sesión como {Username}"
   },
   {
     "Key": "Game options: Open notifications",
-    "Content": ""
+    "Content": "Abrir notificaciones"
   },
   {
     "Key": "Game options: Show progress bar",
-    "Content": ""
+    "Content": "Mostrar barra de progreso"
   },
   {
     "Key": "Game options: Show beatmap percentage",
-    "Content": ""
+    "Content": "Mostrar porcentaje de beatmap"
   },
   {
     "Key": "Game options: Hit note effect",
-    "Content": ""
+    "Content": "Efecto de nota tocada"
   },
   {
     "Key": "Game options: Smooth fix",
-    "Content": ""
+    "Content": "Arreglo de fluidez"
   },
   {
     "Key": "Game options: Use beatmap colors in gameplay",
-    "Content": ""
+    "Content": "Usar colores de beatmap en el gameplay"
   },
   {
     "Key": "Game options: Performance mode",
-    "Content": ""
+    "Content": "Modo de rendimiento"
   },
   {
     "Key": "Game options: Fail sounds",
-    "Content": ""
+    "Content": "Sonidos de fallos"
   },
   {
     "Key": "Game options: Streamer Mode",
-    "Content": ""
+    "Content": "Modo Streamer"
   },
   {
     "Key": "Game options: Anti-copyright filter in gameplay",
-    "Content": ""
+    "Content": "Filtro anti-copyright en gameplay"
   },
   {
     "Key": "Game options: Use Steam overlay browser",
-    "Content": ""
+    "Content": "Usar el navegador del overlay de Steam"
   },
   {
     "Key": "Game options: Input",
-    "Content": ""
+    "Content": "Entrada"
   },
   {
     "Key": "Game options: Use fixed update input",
-    "Content": ""
+    "Content": "Usar actualización de entrada fixed (Beta)"
   },
   {
     "Key": "Game options: Gameplay keys",
-    "Content": ""
+    "Content": "Teclas de gameplay"
   },
   {
     "Key": "Game options: Gameplay keys message",
-    "Content": ""
+    "Content": "Click en las teclas del gameplay para cambiarlas"
   },
   {
     "Key": "Game options: Graphics",
-    "Content": ""
+    "Content": "Gráficos"
   },
   {
     "Key": "Game options: Fullscreen",
-    "Content": ""
+    "Content": "Pantalla completa"
   },
   {
     "Key": "Game options: Resolutions",
-    "Content": ""
+    "Content": "Resoluciones"
   },
   {
     "Key": "Game options: VSync",
-    "Content": ""
+    "Content": "V-Sync"
   },
   {
     "Key": "Game options: Frame rate",
-    "Content": ""
+    "Content": "Tasa de refresco"
   },
   {
     "Key": "Game options: Image quality",
-    "Content": ""
+    "Content": "Calidad de imagen"
   },
   {
     "Key": "Game options: Blur Effect",
-    "Content": ""
+    "Content": "Efecto de desenfoque"
   },
   {
     "Key": "Game options: Audio",
-    "Content": ""
+    "Content": "Sonido"
   },
   {
     "Key": "Game options: Hit sounds",
-    "Content": ""
+    "Content": "Sonidos de golpe"
   },
   {
     "Key": "Game options: Master volume",
-    "Content": ""
+    "Content": "Volumen máster"
   },
   {
     "Key": "Game options: Music volume",
-    "Content": ""
+    "Content": "Volumen de música"
   },
   {
     "Key": "Game options: Sounds volume",
-    "Content": ""
+    "Content": "Volumen de sonidos"
   },
   {
     "Key": "Game options: Always play game theme on menu",
-    "Content": ""
+    "Content": "Siempre reproducir el tema del juego en el menú."
   },
   {
     "Key": "Game options: Offset",
-    "Content": ""
+    "Content": "Offset"
   },
   {
     "Key": "Game options: Warning offset",
-    "Content": ""
+    "Content": "Advertencia: Los sonidos pueden desincronizarse si el offset tiene una diferencia de 50 milisegundos, recomendamos desactivar los sonidos de golpe."
   },
   {
     "Key": "Game options: Integrations",
-    "Content": ""
+    "Content": "Integraciones"
   },
   {
     "Key": "Game options: Steam rich presence",
-    "Content": ""
+    "Content": "Steam rich presence"
   },
   {
     "Key": "Game options: Discord rich presence",
-    "Content": ""
+    "Content": "Discord rich presence"
   },
   {
     "Key": "Game options: Logitech RGB",
-    "Content": ""
+    "Content": "Logitech RGB"
   },
   {
     "Key": "Game options: Razer RGB",
-    "Content": ""
+    "Content": "Razer RGB"
   },
   {
     "Key": "Game options: Other",
-    "Content": ""
+    "Content": "Otros"
   },
   {
     "Key": "Game options: Join Discord server",
-    "Content": ""
+    "Content": "Únete al servidor de Discord ({DiscordOnlineMembers} en línea)"
   },
   {
     "Key": "Game options: Donate",
-    "Content": ""
+    "Content": "Donar"
   },
   {
     "Key": "Game options: Maintenance",
-    "Content": ""
+    "Content": "Mantenimiento"
   },
   {
     "Key": "Game options: Sync scores",
-    "Content": ""
+    "Content": "Sincronizar puntajes"
   },
   {
     "Key": "Game options: Report a bug",
-    "Content": ""
+    "Content": "REPORTAR UN BUG"
   },
   {
     "Key": "Game options: Warn when opening external links",
-    "Content": ""
+    "Content": "Advertir al abrir enlaces externos"
   },
   {
     "Key": "Game options: Version",
-    "Content": ""
+    "Content": "Versión: {gameVersion}"
   },
   {
     "Key": "Game options: Show Debug logs",
-    "Content": ""
+    "Content": "Mostrar logs de Debug"
   },
   {
     "Key": "Game options: Game",
-    "Content": ""
+    "Content": "Juego"
   },
   {
     "Key": "Game options: Account",
-    "Content": ""
+    "Content": "Cuenta"
   },
   {
     "Key": "Game options: Set keybind message",
-    "Content": ""
+    "Content": "Presiona las teclas que deseas de izquierda a derecia. Presiona \"Esc\" para regresar."
   }
 ]

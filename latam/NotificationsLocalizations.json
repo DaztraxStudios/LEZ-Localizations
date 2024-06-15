@@ -1,54 +1,54 @@
 [
   {
     "Key": "Notifications box: You don't have notifications",
-    "Content": ""
+    "Content": "No tienes notificaciones"
   },
   {
     "Key": "Notification: New update detected",
-    "Content": ""
+    "Content": "¡Se ha lanzado una nueva actualización del juego! Cierra y actualiza el juego para seguir jugando."
   },
   {
     "Key": "Notification: Update to submit",
-    "Content": ""
+    "Content": "Tus puntajes no serán subidos hasta que actualices el juego. No te preocupes, tus puntajes serán guardados"
   },
   {
     "Key": "Notification: Error",
-    "Content": ""
+    "Content": "Se ha producido un error en el juego.\n\nEste error se ha informado automáticamente al desarrollador."
   },
   {
     "Key": "Notification: Unhandled error",
-    "Content": ""
+    "Content": "Se ha producido un error no controlado en el juego.\n\nEste error se ha informado automáticamente al desarrollador."
   },
   {
     "Key": "Notification: Updated game",
-    "Content": ""
+    "Content": "Estás jugando ahora la version {GameVersion}.\n\nHaz click aquí para ver el log de cambios."
   },
   {
     "Key": "Notification: Scheduled maintenance",
-    "Content": ""
+    "Content": "Un mantenimiento ha sido programado para {Maintenance} y será en {DaysRemainingForMaintenance}, {HoursRemainingForMaintenance}, {MinutesRemainingForMaintenance}, y {SecondsRemainingForMaintenance}. Razón: {maintenanceReason}"
   },
   {
     "Key": "Notification: Went offline",
-    "Content": ""
+    "Content": "Te has desconectado del internet, ciertas características del juego no estarán disponibles hasta que tu acceso a internet regrese."
   },
   {
     "Key": "Notification: Back to online",
-    "Content": ""
+    "Content": "Tu acceso a internet ha vuelto."
   },
   {
     "Key": "Notification: score not submitted",
-    "Content": ""
+    "Content": "Tu puntaje no ha sido subido debido a que no tienes acceso a internet, te lo guardaremos para cuando regreses a estar en linea."
   },
   {
     "Key": "Notification: submitting score",
-    "Content": ""
+    "Content": "Hemos detectado que tienes puntajes que no se han subido (mientras estabas offline), te lo estamos subiendo a las tablas de puntuaciones."
   },
   {
     "Key": "Notification: Bug report sent",
-    "Content": ""
+    "Content": "Tu reporte de error fue enviado a los desarrolladores y será revisado tan pronto como sea posible, gracias por ayudar al desarrollo del juego."
   },
   {
     "Key": "Notification: Outdated game",
-    "Content": ""
+    "Content": "El juego está desactualizado y existe una nueva actualización del juego, para subir tus datos por favor actualiza el juego"
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
     "Key": "Buy LEZ+",
-    "Content": ""
+    "Content": "Comprar LEZ+"
   },
   {
     "Key": "Payment completed",
-    "Content": ""
+    "Content": "PAGO COMPLETADO"
   },
   {
     "Key": "Warning cancel payment",
-    "Content": ""
+    "Content": "¿Está seguro de que desea cancelar el pago de su suscripción LEZ+?\n\nADVERTENCIA: Si compras después de cancelar dentro del juego, no obtendrás tu suscripción LEZ+, para volver a comprarla deberás volver a intentar este proceso."
   },
   {
     "Key": "LEZ+ description",
-    "Content": ""
+    "Content": "LEZ+ es una suscripción con la que puedes obtener beneficios adicionales en el juego mientras apoyas el juego y su desarrollo.\n\nBeneficios:\n- Obtenga acceso temprano a algunas betas exclusivas con LEZ+ y acceso temprano a algunas funciones antes que otros jugadores cuando las betas estén disponibles.\n- Personaliza tu juego con un fondo personalizado, colores personalizados y sonidos personalizados.\n- Consigue una insignia de \"Supporter\".\n- Obtenga un bono de experiencia del 15% para su nivel de cuenta al completar las canciones.\n\nMUY PRONTO:\n- Aumentar el límite de jugadores en el lobby multijugador.\n- Obtenga acceso anticipado al editor de mapas (no se requiere LEZ+ para descargar y jugar los mapas lanzados por la comunidad durante la versión beta del editor de mapas).\n\nLa suscripción no tendrá renovación mensual automática."
   }
 ]

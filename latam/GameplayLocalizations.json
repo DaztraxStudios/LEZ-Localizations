@@ -1,102 +1,102 @@
 [
   {
     "Key": "Gameplay: Tutorial text 1",
-    "Content": ""
+    "Content": "Bienvenido al tutorial de LEZ, donde aprenderás los conceptos básicos del juego y cómo convertirte en un jugador profesional."
   },
   {
     "Key": "Gameplay: Tutorial text 2",
-    "Content": ""
+    "Content": "El juego puede no ser fácil de jugar, sin embargo, con un conocimiento de los conceptos básicos y un poco de práctica, usted también puede lograr una buena puntuación."
   },
   {
     "Key": "Gameplay: Tutorial text 3",
-    "Content": ""
+    "Content": "Los controles son muy simples. Use las 6 teclas en la barra, y cada vez que haya una nota en la barra, presione la tecla correspondiente en su teclado. ¿Estás listo?"
   },
   {
     "Key": "Gameplay: Try again",
-    "Content": ""
+    "Content": "Intentarlo otra vez"
   },
   {
     "Key": "Gameplay: Back to the menu",
-    "Content": ""
+    "Content": "Regresar al menú"
   },
   {
     "Key": "Gameplay: Pause",
-    "Content": ""
+    "Content": "Pause"
   },
   {
     "Key": "Gameplay: Progress",
-    "Content": ""
+    "Content": "Porcentaje: {Progress}"
   },
   {
     "Key": "Gameplay: Press space 1",
-    "Content": ""
+    "Content": "Presiona \"Espacio\" para continuar"
   },
   {
     "Key": "Gameplay: Press space 2",
-    "Content": ""
+    "Content": "Espere un momento..."
   },
   {
     "Key": "Gameplay: Select the start time",
-    "Content": ""
+    "Content": "- Modo práctica\nSeleccione el tiempo de inicio"
   },
   {
     "Key": "Gameplay: Press to skip",
-    "Content": ""
+    "Content": "Presiona \"{KeyForSkip}\" para adelantar"
   },
   {
     "Key": "Gameplay: Suggested local offset",
-    "Content": ""
+    "Content": "Usar offset local sugerida: {SuggestedLocalOffset}"
   },
   {
     "Key": "Gameplay: Current local offset",
-    "Content": ""
+    "Content": "Offset local actual: {variable.CurrentLocalOffset}"
   },
   {
     "Key": "Gameplay: Attempt",
-    "Content": ""
+    "Content": "Intento {Attempt}"
   },
   {
     "Key": "Gameplay: Take a break",
-    "Content": ""
+    "Content": "- Toma un descanso -"
   },
   {
     "Key": "Gameplay: Hold to restart",
-    "Content": ""
+    "Content": "Mantenga para reiniciar"
   },
   {
     "Key": "Results: Score",
-    "Content": ""
+    "Content": "Puntaje: {Score}"
   },
   {
     "Key": "Results: Notes touched",
-    "Content": ""
+    "Content": "Notas tocadas: {NotesTouched}"
   },
   {
     "Key": "Results: Maximum combo",
-    "Content": ""
+    "Content": "Combo máximo\n{MaximumCombo}"
   },
   {
     "Key": "Results: Failed notes",
-    "Content": ""
+    "Content": "Notas fallidas\n{FailedNotes}"
   },
   {
     "Key": "Results: Excelent hits",
-    "Content": ""
+    "Content": "Golpes excelentes:\n{ExcelentHits}"
   },
   {
     "Key": "Results: Perfect hits",
-    "Content": ""
+    "Content": "Golpes perfectos: {PerfectHits}"
   },
   {
     "Key": "Results: Good hits",
-    "Content": ""
+    "Content": "Golpes buenos: {GoodHits}"
   },
   {
     "Key": "Results: Attempts",
-    "Content": ""
+    "Content": "Intentos\n{Attempts}"
   },
   {
     "Key": "Results: Account level",
-    "Content": ""
+    "Content": "Nivel de cuenta: {AccountLevel}"
   }
 ]
