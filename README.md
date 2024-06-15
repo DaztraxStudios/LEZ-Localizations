@@ -12,5 +12,10 @@ To start adding the content for localizations, we recommend you to use [Visual S
 
 # Adding the content
 - All the text that are on **{Curly Brackets}** should not be changed.
-  - Example: a text in English "**Version: {gameVersion}**" should be in Spanish as "**Versión: {gameVersion}**" and not "**Versión: {VersiónDelJuego}**", or in Japanese as "**バージョン: {gameVersion}**" and not "**バージョン: {ゲームバージョン}**".
+  - Example for Spanish:
+    - Correct: "**Versión: {gameVersion}**"
+    - Incorrect: "**Versión: {VersiónDelJuego}**"
+  - Example for Japanese:
+    - Correct: "**バージョン: {gameVersion}**"
+    - Incorrect: "**バージョン: {ゲームバージョン}**"
 - The "Content" field is the text that will be displayed with its translation, however, the "Key" field should not be changed since the game will search the localization by the "Key" on English.
