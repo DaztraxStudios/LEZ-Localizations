@@ -1,0 +1,54 @@
+[
+  {
+    "Key": "Notifications box: You don't have notifications",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: New update detected",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Update to submit",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Error",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Unhandled error",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Updated game",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Scheduled maintenance",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Went offline",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Back to online",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: score not submitted",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: submitting score",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Bug report sent",
+    "Content": ""
+  },
+  {
+    "Key": "Notification: Outdated game",
+    "Content": ""
+  }
+]
