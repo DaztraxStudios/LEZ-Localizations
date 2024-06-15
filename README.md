@@ -21,7 +21,7 @@ To start adding the content for localizations, we recommend you to use [Visual S
 - The "Content" field is the text that will be displayed with its translation, however, the "Key" field should not be changed since the game will search the localization by the "Key" on English.
 - We recommend that all the localizations for one language are 100% finished before submitting.
   - If there's missing localizations for any language, the game will show the text in English as default.
-  - 
+
 ## Supported Languages
 Below are the supported languages. Click on the language name to go to its localization path in the repository:
 
