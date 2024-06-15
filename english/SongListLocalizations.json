@@ -4,271 +4,135 @@
     "Content": "Song list"
   },
   {
-    "Key": "Song list: Title",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Difficulty",
     "Content": "Difficulty: {difficulty}"
-  },
-  {
-    "Key": "Song list: Difficulty",
-    "Content": ""
   },
   {
     "Key": "Song list: Score",
     "Content": "Score: {score}"
   },
   {
-    "Key": "Song list: Score",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Notes",
     "Content": "Notes: {notes}"
-  },
-  {
-    "Key": "Song list: Notes",
-    "Content": ""
   },
   {
     "Key": "Song list: Beats per minute",
     "Content": "BPM: {bpm}"
   },
   {
-    "Key": "Song list: Beats per minute",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Unranked Gameplay",
     "Content": "UNRANKED GAMEPLAY"
-  },
-  {
-    "Key": "Song list: Unranked Gameplay",
-    "Content": ""
   },
   {
     "Key": "Song list: Duration",
     "Content": "Duration: {SongDuration}"
   },
   {
-    "Key": "Song list: Duration",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Difficulty:",
     "Content": "Difficulty: {Difficulty} {StarsWord}"
-  },
-  {
-    "Key": "Song list: Difficulty:",
-    "Content": ""
   },
   {
     "Key": "Song list: Song Name",
     "Content": "{SongName}"
   },
   {
-    "Key": "Song list: Song Name",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Artist name",
     "Content": "By {ArtistName}"
-  },
-  {
-    "Key": "Song list: Artist name",
-    "Content": ""
   },
   {
     "Key": "Song list: Song and artist name",
     "Content": "{SongName}\nBy {ArtistName}"
   },
   {
-    "Key": "Song list: Song and artist name",
-    "Content": ""
-  },
-  {
     "Key": "Song list: No scores on leaberdoards",
     "Content": "There's no scores for this song, be the first to get a score!"
-  },
-  {
-    "Key": "Song list: No scores on leaberdoards",
-    "Content": ""
   },
   {
     "Key": "Song list: Anti copyright warning",
     "Content": "Anti copyright effect enabled by streamer mode"
   },
   {
-    "Key": "Song list: Anti copyright warning",
-    "Content": ""
-  },
-  {
     "Key": "Song list: NOTES SPEED",
     "Content": "NOTES SPEED"
-  },
-  {
-    "Key": "Song list: NOTES SPEED",
-    "Content": ""
   },
   {
     "Key": "Song list: More hitbox",
     "Content": "More hitbox (Coming soon)"
   },
   {
-    "Key": "Song list: More hitbox",
-    "Content": ""
-  },
-  {
     "Key": "Song list: No death",
     "Content": "No death"
-  },
-  {
-    "Key": "Song list: No death",
-    "Content": ""
   },
   {
     "Key": "Song list: Mirror notes",
     "Content": "Mirror notes (Coming soon)"
   },
   {
-    "Key": "Song list: Mirror notes",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Limited vision",
     "Content": "Limited vision (Coming soon)"
-  },
-  {
-    "Key": "Song list: Limited vision",
-    "Content": ""
   },
   {
     "Key": "Song list: Insta death with one fail",
     "Content": "Insta death with one fail"
   },
   {
-    "Key": "Song list: Insta death with one fail",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Ranked mods",
     "Content": "Ranked mods"
-  },
-  {
-    "Key": "Song list: Ranked mods",
-    "Content": ""
   },
   {
     "Key": "Song list: Unranked mods",
     "Content": "Unranked mods"
   },
   {
-    "Key": "Song list: Unranked mods",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Gameplay mods",
     "Content": "Gameplay mods"
-  },
-  {
-    "Key": "Song list: Gameplay mods",
-    "Content": ""
   },
   {
     "Key": "Song list: Score multiplier",
     "Content": "SCORE MULTIPLIER: {SongMultiplier}x"
   },
   {
-    "Key": "Song list: Score multiplier",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Song speed",
     "Content": "Song speed"
-  },
-  {
-    "Key": "Song list: Song speed",
-    "Content": ""
   },
   {
     "Key": "Song list: Sort by",
     "Content": "Sort by"
   },
   {
-    "Key": "Song list: Sort by",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Mappers name",
     "Content": "Mapped by {MappersNames}"
-  },
-  {
-    "Key": "Song list: Mappers name",
-    "Content": ""
   },
   {
     "Key": "Song list: Rank status: Ranked",
     "Content": "Ranked"
   },
   {
-    "Key": "Song list: Rank status: Ranked",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Rank status: Unranked",
     "Content": "Unranked"
-  },
-  {
-    "Key": "Song list: Rank status: Unranked",
-    "Content": ""
   },
   {
     "Key": "Song list: Game mode",
     "Content": "Game mode"
   },
   {
-    "Key": "Song list: Game mode",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Edit beatmap",
     "Content": "Edit beatmap"
-  },
-  {
-    "Key": "Song list: Edit beatmap",
-    "Content": ""
   },
   {
     "Key": "Song list: Create beatmap",
     "Content": "Create beatmap"
   },
   {
-    "Key": "Song list: Create beatmap",
-    "Content": ""
-  },
-  {
     "Key": "Song list: Song Data",
     "Content": "SONG DATA"
-  },
-  {
-    "Key": "Song list: Song Data",
-    "Content": ""
   },
   {
     "Key": "Song list: Play song",
     "Content": "PLAY SONG"
   },
   {
-    "Key": "Song list: Play song",
-    "Content": ""
-  },
-  {
     "Key": "Song list: No custom songs",
     "Content": "Uh oh, we didn't find any custom beatmaps for you to play.\n\n\nDownload some beatmaps from the Steam Workshop."
-  },
-  {
-    "Key": "Song list: No custom songs",
-    "Content": ""
   }
 ]

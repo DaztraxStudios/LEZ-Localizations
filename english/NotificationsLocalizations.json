@@ -4,103 +4,51 @@
     "Content": "You don't have notifications"
   },
   {
-    "Key": "Notifications box: You don't have notifications",
-    "Content": ""
-  },
-  {
     "Key": "Notification: New update detected",
     "Content": "A new update of the game has been released! Close and update the game to keep playing."
-  },
-  {
-    "Key": "Notification: New update detected",
-    "Content": ""
   },
   {
     "Key": "Notification: Update to submit",
     "Content": "Your scores will not be submited until you update the game. Don't worry, your scores will be saved."
   },
   {
-    "Key": "Notification: Update to submit",
-    "Content": ""
-  },
-  {
     "Key": "Notification: Error",
     "Content": "An error has occurred in the game.\n\nThis error has been automatically reported to the developer."
-  },
-  {
-    "Key": "Notification: Error",
-    "Content": ""
   },
   {
     "Key": "Notification: Unhandled error",
     "Content": "An unhandled error has occurred in the game.\n\nThis error has been automatically reported to the developer."
   },
   {
-    "Key": "Notification: Unhandled error",
-    "Content": ""
-  },
-  {
     "Key": "Notification: Updated game",
     "Content": "You're now playing the version {GameVersion}.\n\nClick here to see the change log."
-  },
-  {
-    "Key": "Notification: Updated game",
-    "Content": ""
   },
   {
     "Key": "Notification: Scheduled maintenance",
     "Content": "A maintenance has been scheduled for {Maintenance} and it will be in {DaysRemainingForMaintenance:plural}, {HoursRemainingForMaintenance}, {MinutesRemainingForMaintenance}, and {SecondsRemainingForMaintenance}. Reason: {maintenanceReason}"
   },
   {
-    "Key": "Notification: Scheduled maintenance",
-    "Content": ""
-  },
-  {
     "Key": "Notification: Went offline",
     "Content": "You have been disconnected from the internet, certain game features will not be available until your internet access returns."
-  },
-  {
-    "Key": "Notification: Went offline",
-    "Content": ""
   },
   {
     "Key": "Notification: Back to online",
     "Content": "Your internet access is back."
   },
   {
-    "Key": "Notification: Back to online",
-    "Content": ""
-  },
-  {
     "Key": "Notification: score not submitted",
     "Content": "Your score hasn't been uploaded because you don't have internet access, we'll save it for you when you're back online."
-  },
-  {
-    "Key": "Notification: score not submitted",
-    "Content": ""
   },
   {
     "Key": "Notification: submitting score",
     "Content": "We have detected that you have scores that have not been uploaded (while you were offline), we are uploading it to the leaderboards."
   },
   {
-    "Key": "Notification: submitting score",
-    "Content": ""
-  },
-  {
     "Key": "Notification: Bug report sent",
     "Content": "Your bug report was sent to the developers and it'll be checked as soon as possible, thank you for helping the development of the game."
   },
   {
-    "Key": "Notification: Bug report sent",
-    "Content": ""
-  },
-  {
     "Key": "Notification: Outdated game",
     "Content": "The game is outdated and there is a new game update, to upload your data please update the game"
-  },
-  {
-    "Key": "Notification: Outdated game",
-    "Content": ""
   }
 ]

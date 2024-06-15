@@ -4,63 +4,31 @@
     "Content": "Play LEZ"
   },
   {
-    "Key": "Menu: Play LEZ",
-    "Content": ""
-  },
-  {
     "Key": "Menu: Play tutorial",
     "Content": "Play tutorial"
-  },
-  {
-    "Key": "Menu: Play tutorial",
-    "Content": ""
   },
   {
     "Key": "Menu: Official beatmaps",
     "Content": "Official beatmaps"
   },
   {
-    "Key": "Menu: Official beatmaps",
-    "Content": ""
-  },
-  {
     "Key": "Menu: Multiplayer",
     "Content": "Multiplayer\n(Soon)"
-  },
-  {
-    "Key": "Menu: Multiplayer",
-    "Content": ""
   },
   {
     "Key": "Menu: Edit beatmaps",
     "Content": "Edit beatmaps\n(Soon)"
   },
   {
-    "Key": "Menu: Edit beatmaps",
-    "Content": ""
-  },
-  {
     "Key": "Menu: Community beatmaps",
     "Content": "Community beatmaps"
-  },
-  {
-    "Key": "Menu: Community beatmaps",
-    "Content": ""
   },
   {
     "Key": "Menu: My beatmaps",
     "Content": "My beatmaps"
   },
   {
-    "Key": "Menu: My beatmaps",
-    "Content": ""
-  },
-  {
     "Key": "Menu: New player tutorial advise",
     "Content": "Hello, welcome to LEZ, we just found out that this is the first time you play, so we want to ask you if you want to play the tutorial."
-  },
-  {
-    "Key": "Menu: New player tutorial advise",
-    "Content": ""
   }
 ]
