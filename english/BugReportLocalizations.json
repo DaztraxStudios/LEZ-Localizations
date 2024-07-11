@@ -1,0 +1,22 @@
+[
+  {
+    "Key": "Send report",
+    "Content": "SEND REPORT"
+  },
+  {
+    "Key": "See the Privacy Policy",
+    "Content": "See the Privacy Policy"
+  },
+  {
+    "Key": "Report a bug description",
+    "Content": "Hey player, did you find a bug or several bugs? You're in the right place!\nCreate a report of the bug here and send it directly to the developers.\nAdd a description to send detailed information like how is the bug, how to cause the bug, where it appears (gameplay, song list, etc), and more.\nIf you can send video clips with URLs, it will be much better (like Twitch clips or using the \"streamable.com\" service."
+  },
+  {
+    "Key": "Privacy Policy advise",
+    "Content": "By reporting a bug, you agree that LEZ collects information from the \".log\" files and the specifications of your computer in order to have clear information and to be able to understand your problem and to be able to fix the bugs found. No personal information or file/document will be collected at any time. Read our Privacy Policy for more information."
+  },
+  {
+    "Key": "Report sent",
+    "Content": "REPORT SENT"
+  }
+]
