@@ -190,5 +190,37 @@
   {
     "Key": "Game options: Set keybind message",
     "Content": "Press the keys you want to set from left to right. Press \"Esc\" to return."
+  },
+  {
+    "Key": "Game options: Fail sound 1",
+    "Content": "Failed note from 0 & failed combo from 10"
+  },
+  {
+    "Key": "Game options: Fail sound 2",
+    "Content": "Failed note from 10 & failed combo from 20"
+  },
+  {
+    "Key": "Game options: Fail sound 3",
+    "Content": "Only failed notes from 0"
+  },
+  {
+    "Key": "Game options: Fail sound 4",
+    "Content": "Only failed notes from 10"
+  },
+  {
+    "Key": "Game options: Fail sound 5",
+    "Content": "Only failed combo from 10"
+  },
+  {
+    "Key": "Game options: Fail sound 6",
+    "Content": "Only failed combo from 20"
+  },
+  {
+    "Key": "Game options: Fail sound 7",
+    "Content": "Don't play fail sounds"
+  },
+  {
+    "Key": "Game options: Unlimited FPS",
+    "Content": "Unlimited FPS"
   }
 ]
