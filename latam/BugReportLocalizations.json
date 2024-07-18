@@ -1,9 +1,5 @@
 [
   {
-    "Key": "Stream mode advise",
-    "Content": "Espera, {Username}...\nHemos detectado que tienes abierto {StreamingSoftware}.\nSi planea grabar/transmitir el juego, le recomendamos que habilite el modo Streamer. ¿Quieres hacerlo ahora?"
-  },
-  {
     "Key": "Send report",
     "Content": "Enviar reporte"
   },
