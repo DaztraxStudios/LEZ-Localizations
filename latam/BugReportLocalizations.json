@@ -5,7 +5,7 @@
   },
   {
     "Key": "Send report",
-    "Content": "ENVIAR REPORTE"
+    "Content": "Enviar reporte"
   },
   {
     "Key": "See the Privacy Policy",
@@ -21,6 +21,6 @@
   },
   {
     "Key": "Report sent",
-    "Content": "REPORTE ENVIADO"
+    "Content": "Reporte enviado"
   }
 ]

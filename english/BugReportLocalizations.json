@@ -1,7 +1,7 @@
 [
   {
     "Key": "Send report",
-    "Content": "SEND REPORT"
+    "Content": "Send report"
   },
   {
     "Key": "See the Privacy Policy",
@@ -17,6 +17,6 @@
   },
   {
     "Key": "Report sent",
-    "Content": "REPORT SENT"
+    "Content": "Report sent"
   }
 ]
