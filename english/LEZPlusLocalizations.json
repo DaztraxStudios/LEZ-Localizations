@@ -14,5 +14,9 @@
   {
     "Key": "LEZ+ description",
     "Content": "LEZ+ is a subscription with which you can get additional benefits in the game while supporting the game and its development.\n\n\nBenefits:\n- Get early access to some exclusive betas with LEZ+ and early access to some features before other players when the betas become available.\n- Personalize your game with a custom background, custom colors and custom sounds.\n- Get a \"Supporter\" badge.\n- Get a 15% experience bonus to your account level by completing songs.\n\nCOMING SOON:\n- Increase the player limit in the multiplayer lobby.\n- Get early access to the beatmap editor (LEZ+ is not required to download and play the maps released by the community during the beta version of the beatmap editor).\n\nThe subscription will not have automatic monthly renewal."
+  },
+  {
+    "Key": "LEZ+ not available",
+    "Content": "LEZ+ is not available yet..."
   }
 ]
