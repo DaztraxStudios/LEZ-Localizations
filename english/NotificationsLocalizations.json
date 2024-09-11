@@ -58,5 +58,9 @@
   {
     "Key": "Notification: Error loading beatmaps",
     "Content": "Algunos beatmaps no se han podido cargar correctamente debido a un error inesperado, esos beatmaps no serán incluidos en la lista de canciones."
+  },
+  {
+    "Key": "Notification: Testing",
+    "Content": "Notification test here!"
   }
 ]
