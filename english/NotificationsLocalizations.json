@@ -50,5 +50,13 @@
   {
     "Key": "Notification: Outdated game",
     "Content": "The game is outdated and there is a new game update, to upload your data please update the game"
+  },
+  {
+    "Key": "Notification: Unexpected crash",
+    "Content": "The game was closed unexpectedly before due to critical errors that have been detected, but don't worry, we have already informed the developers about this issue."
+  },
+  {
+    "Key": "Notification: Error loading beatmaps",
+    "Content": "Algunos beatmaps no se han podido cargar correctamente debido a un error inesperado, esos beatmaps no serán incluidos en la lista de canciones."
   }
 ]

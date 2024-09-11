@@ -1,0 +1,10 @@
+[
+    {
+        "Key": "Beatmap saved",
+        "Content": "Beatmap saved"
+    },
+    {
+        "Key": "Preview time set",
+        "Content": "Preview time assigned: {PreviewTime} ms"
+    }
+]

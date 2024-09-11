@@ -222,5 +222,9 @@
   {
     "Key": "Game options: Unlimited FPS",
     "Content": "Unlimited FPS"
+  },
+  {
+    "Key": "Game options: Performance mode notification",
+    "Content": "Some settings has been changed to the recommended options and some of them can't be changed while performance mode is activated."
   }
 ]
