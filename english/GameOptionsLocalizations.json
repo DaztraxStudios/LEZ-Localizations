@@ -16,8 +16,12 @@
     "Content": "Show beatmap percentage"
   },
   {
-    "Key": "Game options: Hit note effect",
-    "Content": "Hit note effect"
+    "Key": "Game options: Hit note visual effect",
+    "Content": "Hit note visual effect"
+  },
+  {
+    "Key": "Game options: Gameplay behaviour",
+    "Content": "Gameplay behaviour"
   },
   {
     "Key": "Game options: Smooth fix",
@@ -178,6 +182,10 @@
   {
     "Key": "Game options: Show Debug logs",
     "Content": "Show Debug logs"
+  },
+  {
+    "Key": "Game options: Gameplay UI",
+    "Content": "Gameplay UI"
   },
   {
     "Key": "Game options: Game",
