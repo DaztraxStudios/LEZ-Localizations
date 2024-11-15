@@ -20,8 +20,28 @@
     "Content": "Hit note visual effect"
   },
   {
+    "Key": "Game options: Game behaviour",
+    "Content": "Game behaviour"
+  },
+  {
     "Key": "Game options: Gameplay behaviour",
     "Content": "Gameplay behaviour"
+  },
+  {
+    "Key": "Game options: Screen options",
+    "Content": "Screen options"
+  },
+  {
+    "Key": "Game options: Visual options",
+    "Content": "Visual options"
+  },
+  {
+    "Key": "Game options: Gameplay audio",
+    "Content": "Gameplay audio"
+  },
+  {
+    "Key": "Game options: General audio",
+    "Content": "General audio"
   },
   {
     "Key": "Game options: Smooth fix",
@@ -129,7 +149,7 @@
   },
   {
     "Key": "Game options: Integrations",
-    "Content": "Ingegrations"
+    "Content": "Integrations"
   },
   {
     "Key": "Game options: Steam rich presence",
