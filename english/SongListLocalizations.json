@@ -134,5 +134,9 @@
   {
     "Key": "Song list: No custom songs",
     "Content": "Uh oh, we didn't find any custom beatmaps for you to play :(\n\n\nDownload some beatmaps from the Steam Workshop."
+  },
+  {
+    "Key": "Song list: No audio file found",
+    "Content": "Audio file \"{AudioFileName}\" wasn't found for \"{BeatmapName}\""
   }
 ]
