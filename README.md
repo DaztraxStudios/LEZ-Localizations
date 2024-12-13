@@ -57,4 +57,4 @@ Below are the supported languages. Click on the language name to go to its local
 - [Vietnamese](https://github.com/DaztraxStudios/LEZ-Localization/tree/main/vietnamese)
 
 # Have any questions?
-Please contact us on our [official Discord server](https://daztraxstudios.com/discord)
+Please contact us on our [official Discord server](https://discord.daztraxstudios.com) or ger in contact with us [via email](https://www.daztraxstudios.com/contact)
