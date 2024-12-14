@@ -1,7 +1,7 @@
 [
   {
     "Key": "Game options: Logged as username",
-    "Content": "Logged as \"{Username}\""
+    "Content": "Logged in as \"{Username}\""
   },
   {
     "Key": "Game options: Open notifications",
@@ -210,6 +210,10 @@
   {
     "Key": "Game options: Game",
     "Content": "Game"
+  },
+  {
+    "Key": "Game options: General options",
+    "Content": "General options"
   },
   {
     "Key": "Game options: Account",
