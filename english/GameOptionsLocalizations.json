@@ -12,6 +12,18 @@
     "Content": "Show progress bar"
   },
   {
+    "Key": "Game options: Skip intro on retry",
+    "Content": "Skip intro on retry"
+  },
+  {
+    "Key": "Game options: Renderer",
+    "Content": "Renderer"
+  },
+  {
+    "Key": "Game options: Auto select suggested local offset",
+    "Content": "Auto select suggested local offset"
+  },
+  {
     "Key": "Game options: Show beatmap percentage",
     "Content": "Show beatmap percentage"
   },
