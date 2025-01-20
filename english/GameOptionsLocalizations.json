@@ -8,6 +8,14 @@
     "Content": "Open notifications"
   },
   {
+    "Key": "Game options: renderer restart warning",
+    "Content": "You'll need to restart the game to change the renderer"
+  },
+  {
+    "Key": "Game options: Restart game",
+    "Content": "Restart game"
+  },
+  {
     "Key": "Game options: Show progress bar",
     "Content": "Show progress bar"
   },
