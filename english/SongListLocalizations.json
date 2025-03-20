@@ -137,6 +137,6 @@
   },
   {
     "Key": "Song list: No audio file found",
-    "Content": "Audio file \"{AudioFileName}\" wasn't found for \"{BeatmapName}\""
+    "Content": "Audio file wasn't found for \"{BeatmapName}\""
   }
 ]
