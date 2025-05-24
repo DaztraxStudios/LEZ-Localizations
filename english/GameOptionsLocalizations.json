@@ -1,7 +1,7 @@
 [
   {
     "Key": "Game options: Logged in as username",
-    "Content": "Logged in as {Username}"
+    "Content": "Logged as {Username}"
   },
   {
     "Key": "Game options: Open notifications",
